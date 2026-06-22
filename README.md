@@ -21,9 +21,9 @@ An interactive Tableau dashboard that analyzes student education, skills, aptitu
 1.	Collected and cleaned student data. 
 2.	Performed data transformation in Tableau. 
 3.	Created interactive dashboards: 
-o	Student Overview 
-o	Students Skill Analysis 
-o	Career Recommendation Analysis 
+  a.Student Overview 
+  b.Students Skill Analysis 
+  c.Career Recommendation Analysis 
 4.	Added filters and visualizations for deeper insights. 
 
 ## Project Insights
