@@ -17,6 +17,7 @@ An interactive Tableau dashboard that analyzes student education, skills, aptitu
 •	Average Certifications: 4 
 •	Average Communication Skill: 5.3 
 
+Dashoard Ineraction : <a href="https://github.com/aarti-ashok-dorale/Data-Analysis-Dashboard-TABLEAU/blob/main/Dashboards.docx">View Dshboard</a>
 ## Process
 1.	Collected and cleaned student data. 
 2.	Performed data transformation in Tableau. 
