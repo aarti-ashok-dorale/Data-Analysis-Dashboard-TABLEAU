@@ -2,7 +2,7 @@
 ## Project Overview
 An interactive Tableau dashboard that analyzes student education, skills, aptitude, certifications, and career interests to provide insights into career readiness and recommended career paths.
 
-## Dataset used : -<a href="https://github.com/aarti-ashok-dorale/Data-Analysis-Dashboard-TABLEAU/blob/main/Dataset.xlsx">Dataset</a>
+## Dataset used : -<a href="https://github.com/aarti-ashok-dorale/Data-Analysis-Dashboard-TABLEAU/blob/main/Dataset.xlsx">Dataset</a> 
 ## Business Questions
 •	Which streams have the highest number of students? 
 •	How do internships vary across education levels? 
@@ -17,10 +17,13 @@ An interactive Tableau dashboard that analyzes student education, skills, aptitu
 •	Average Certifications: 4 
 •	Average Communication Skill: 5.3 
 
-Dashoard Ineraction : <a href="https://github.com/aarti-ashok-dorale/Data-Analysis-Dashboard-TABLEAU/blob/main/Dashboards.docx">View Dashboard</a>
-Dashboard Images :  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca127664-279a-4e86-8182-051b44ef9fe5" />
-                    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1bd9dd6-bedb-437f-8e9c-7607be7faf72" />
-                    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8075db0-8e25-4413-a30b-37926cdec45a" />
+# Dashoard Ineraction :
+<a href="https://github.com/aarti-ashok-dorale/Data-Analysis-Dashboard-TABLEAU/blob/main/Dashboards.docx">View Dashboard</a>
+
+# Dashboard Images :
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca127664-279a-4e86-8182-051b44ef9fe5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1bd9dd6-bedb-437f-8e9c-7607be7faf72" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8075db0-8e25-4413-a30b-37926cdec45a" />
 
 
 
